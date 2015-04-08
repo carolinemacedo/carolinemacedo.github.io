@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: ricardo palmieri
+name: Caroline Macedo
 
 # Short bio or description (displayed in the header)
 description: maker @OLABI-&-NoiseTupi
@@ -17,18 +17,12 @@ avatar: /images/euzin.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: ricardopalmieri@gmail.com
-  facebook: vjpalm
-  flickr:
-  github: ricardopalmieri
-  instagram: ricardopalmieri
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: ricardopalmieri
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCjxbOs6angK2KVbnVFKbFeQ
+  
+  gmail: carolinebiox@gmail.com
+  facebook: carolinebiox
+  github: carolinemacedo
+
+
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
@@ -36,9 +30,6 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-35626247-1
 
-# Your website URL (e.g. http://ricardopalmieri.github.io or http://www.vjpalm.com)
-# Used for Sitemap.xml and your RSS feed
-url: www.vjpalm.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
