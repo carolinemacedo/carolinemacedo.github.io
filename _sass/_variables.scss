@@ -23,6 +23,10 @@ $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
+@grid-columns: 12;
+@grid-gutter-width: 30px;
+@grid-float-breakpoint: 768px;
+
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
